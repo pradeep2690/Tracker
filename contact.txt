@@ -1,0 +1,5 @@
+Admin:OTMS_Admin
+Main Branch Address:#3,Hebbal,Electronic City,Mysore
+Contact No:9876543210
+Email Id:Admin@OTMS.com
+Other Branches:Bangalore,Chennai
